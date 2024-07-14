@@ -28,5 +28,13 @@ dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2039302152,5552
 dimwishlist:item=198854575&perks=1840239774,3142289711,1168162263,2039302152,555281244,2697220197
 dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2039302152,47981717,2697220197
 dimwishlist:item=198854575&perks=1840239774,3142289711,1168162263,2039302152,47981717,2697220197
+dimwishlist:item=198854575&perks=,3828510309,3038247973#pve Good for pve
 
+//notes: Riiswalker 
+dimwishlist:item=1764868900&perks=,3978468247,1546637391
 
+//notes: CLAWS OF THE WOLF
+
+dimwishlist:item=1505862304&perks=,776531651,1683379515#notes:pve 50 increase bump to kenetic damage pairs really well with witherhord or izunagis burden. Disruption break is a good perk on anti-barrier seasons. MW range or reload speed. 
+dimwishlist:item=1505862304&perks=,460017080,2387244414#notes:pvp really consistant perk combo. Good for an all-around solid play. 
+dimwishlist:item=1505862304&perks=,460017080,1015611457#notes:pvp if you dont like head-zen go for head-kill-clip
