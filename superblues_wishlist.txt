@@ -1,0 +1,32 @@
+title:superblueguys Wishlist rolls 
+description:All the things I personall want
+
+// Hunter Liars / Calabans
+dimwishlist:item=2809120022&perks=3751917996,3751917992#notes: This shit slaaaaps
+
+// Better Devils 
+dimwishlist:item=4152016199&perks=839105230,3142289711,247725512,3038247973#pvp
+dimwishlist:item=4152016199&perks=3250034553,3142289711,588594999,3038247973
+
+
+// The Guiding Sight - Guding Sight Pvp rolls (pvp,mnk)
+//notes: tags:pvp,mnk - Zer0
+dimwishlist:item=417100299&perks=839105230,3142289711,588594999,1015611457
+
+
+// The Guiding Sight - The Guided sight pve  (pve,controller)
+//notes: tags:pve,controller
+dimwishlist:item=417100299&perks=839105230,3142289711,923806249,831391274
+
+title: Crimil's Dagger - Zer0
+
+// Crimil's Dagger
+//notes: (??? pvpgod ???): Adagio can 2 tap on tier 9 or lower. 120 RPM hand cannon hard to get precision instrument procced on. https://www.youtube.com/watch?v=eMtQ3DfJOrI|tags:pvpgod
+dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2039302152,3673922083,2697220197
+dimwishlist:item=198854575&perks=1840239774,3142289711,1168162263,2039302152,3673922083,2697220197
+dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2039302152,555281244,2697220197
+dimwishlist:item=198854575&perks=1840239774,3142289711,1168162263,2039302152,555281244,2697220197
+dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2039302152,47981717,2697220197
+dimwishlist:item=198854575&perks=1840239774,3142289711,1168162263,2039302152,47981717,2697220197
+
+
